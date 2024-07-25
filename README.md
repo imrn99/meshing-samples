@@ -20,3 +20,11 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
 
 [SPDX]: https://spdx.dev
+
+ ## Credit
+
+ All files of this repository are either:
+
+ - made by myself
+ - credited to the original author & licensed under terms that do not conflict with their redistribution through
+   this repository
